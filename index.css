@@ -29,7 +29,7 @@ h3 {
     background-color: 080001;
 }
 
-.score {
+#score-el1, #score-el2 {
     color: F94F6D;
     font-family: 'Cursed Timer ULiL', sans-serif;
     text-align: center;
