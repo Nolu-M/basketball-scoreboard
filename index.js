@@ -29,3 +29,4 @@ function guest3() {
     guest += 3
     guestEl.innerText = guest
 }
+
